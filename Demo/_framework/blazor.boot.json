@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HikiWebTry",
   "resources": {
-    "hash": "sha256-S215UcHZlPiijg8WLOvMhqY8kyJ/awnvZAP6Nv/aWLU=",
+    "hash": "sha256-dTn+7ImqTcu1GBQ4waZtLbwXby7SngCKH6Ge3H4wqWY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.f7bsojypx6.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "HikiWebTry.wasm": "sha256-di+lFdfsPXdekMbnxdQFV6p9YHw+KtR+71iPdzkLaCk=",
+      "HikiWebTry.wasm": "sha256-DSDgEXBqVkGXl8Dq8dcX5qYIeF8YuWUcTe3yt+5T6s0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-lTcTyk5dAFJ5guWhE2fE8VgIOxlXlJZejBKJoqXSf3Q=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-nbNEoOWGWA9eGfEFt/KxzT+QvjtGy/EM8l3Ay9b78D4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Q4gQS+wAI/o1p0ABACPX+vUj06GrNg33CWKIBqv9S0w=",
